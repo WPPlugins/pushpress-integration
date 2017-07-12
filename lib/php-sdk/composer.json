@@ -1,0 +1,13 @@
+{
+    "name": "pushpress/php-sdk",
+    "description": "PHP SDK for the PushPress API",
+    "type": "sdk",
+    "homepage": "https://github.com/pushpress-com/php-sdk",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["lib/Pushpress/"]
+    }    
+} 

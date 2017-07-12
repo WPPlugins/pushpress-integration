@@ -1,0 +1,374 @@
+.wp-pushpress-cat{
+    list-style: none !important;
+    list-style-type: none !important;
+    width: 100%;
+}
+
+.wp-pushpress-cat h3{
+    margin: 0 !important;
+    padding: 0;
+}
+.wp-pushpress-cat li span{
+    display: inline-block;
+}
+.wp-pushpress-cat li{
+    margin-top: 10px !important;
+    list-style: none !important;
+}
+
+.wp-pushpress-name{
+    width: 40%;
+    text-align: left;
+}
+.wp-pushpress-price{
+    width: 35%;
+    text-align: right;
+}
+.wp-pushpress-id{
+    width: 20%;
+    text-align: right;
+}
+
+.wp-pushpress-id a{
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border: 1px solid #00CEFF;
+    border-bottom: 1px solid #00CEFF !important;
+    width: 30px;
+    color: #00CEFF;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+}
+
+.wp-pushpress-item-first{
+    border-bottom: 3px solid #000;
+}
+.wp-pushpress-item-other{
+    border-bottom: 1px solid #000;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+.wp-pushpress ul{
+    list-style: none !important;
+    list-style-type: none !important;
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.wp-pushpress ul h3{
+    margin: 0 !important;
+    padding: 0;
+    /* font-size: 24px; 
+    float: left;
+    */
+}
+.wp-pushpress ul li span{
+    float: left;
+}
+.wp-pushpress ul li{
+    margin-top: 10px !important;
+    list-style: none !important;
+}
+
+.wp-pushpress .item-first{
+    border-bottom: 3px solid #000;
+    padding-bottom: 12px;
+}
+
+table.wp-pushpress-list{
+    border: none!important;
+}
+table.wp-pushpress-list tr.item-first td{
+    border-width: 0px 0px 3px 0px;
+    border-style: solid;
+    border-color: #000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+table.wp-pushpress-list tr.item-first td h3{
+    margin:0;
+}
+table.wp-pushpress-list tr.item-other td{
+    border-width: 0px 0px 1px 0px;
+    border-style: solid;
+    border-color: #000;
+}
+.wp-pushpress .item-other{
+    /*border-bottom: 1px solid #000;*/
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+.wp-pushpress .link-button{
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border: 1px solid #00CEFF;
+    border-bottom: 1px solid #00CEFF !important;
+    color: #00CEFF;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.wp-pushpress .plan-name{
+    width: 20%;
+}
+.wp-pushpress .plan-price{
+    width: 15%;
+}
+.wp-pushpress .plan-type{
+    width: 25%;
+}
+.wp-pushpress .plan-button{
+    float: right;
+}
+
+.wp-pushpress .schedule-name{
+    width: 24%;
+}
+.wp-pushpress .schedule-hour{
+    width: 24%;
+}
+.wp-pushpress .schedule-title{
+    width: 24%;
+}
+.wp-pushpress .schedule-type{
+    width: 24%;
+}
+.wp-pushpress .schedule-button{
+    float: right;
+}
+
+.wp-pushpress .workout-date{
+    text-align: left;
+}
+
+.wp-pushpress .workout-date button{
+    margin-right: 10px;
+    min-width: 120px;
+}
+
+.wp-pushpress .workout-date .hasDatepicker{
+    width: auto;
+}
+
+.wp-pushpress .item-workout{
+    padding-bottom: 10px;
+}
+
+.wp-pushpress .item-workout h3{
+    margin: 0 !important;
+    padding: 0;
+    /* font-size: 24px; 
+    float: left;
+    */
+}
+.wp-pushpress div.item-other h4{
+    margin: 0 0 10px 0 !important;
+    padding: 0;
+    /* font-size: 20px; */
+}
+
+.wp-pushpress div.item-other p.workout-title{
+    margin:0;
+}
+
+.wp-pushpress .item-other pre{
+    font-family: inherit;
+    border: none;
+    margin-bottom: 0px;
+    padding:0;
+    background: inherit;
+    color: inherit;
+    font-size: inherit;
+}
+.wp-pushpress .item-other:last-child{
+    border-bottom: none;
+}
+
+.wp-pushpress .event-name{
+    width: 20%;
+}
+.wp-pushpress .event-price{
+    width: 15%;
+}
+.wp-pushpress .event-date{
+    width: 30%;
+}
+.wp-pushpress .event-button{
+    float: right;
+}
+
+.wp-pushpress .clear{
+    clear: both;
+    width: 100%;
+}
+
+.wp-pushpress .schedule-title i{
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+}
+.wp-pushpress .schedule-reservation{
+    background-color: #00a0df; 
+}
+
+.wp-pushpress .schedule-full{
+    background-color: #aaaaaa;
+}
+
+.wp-pushpress .btn-group{
+    margin-top: 35px;
+    display:block;
+    /* width: 330px; */
+}
+.wp-pushpress .btn-group input{
+    width: 33%;
+    padding: 8px 15px 8px 14px;
+    margin-top: 12px;
+    /* font-size: 18px; */
+}
+.wp-pushpress .btn-group label{
+    /*font-size: 14px;*/
+    /* margin-left: 9px; */
+    display:block;
+    font-weight:bold;
+}
+.wp-pushpress .btn-group select{
+    /* width: 250px; 
+    padding-top: 7px;
+    padding-bottom: 9px;
+    padding-left: 20px;
+    margin-top: 12px;
+    font-size: 18px;
+    */
+}
+.wp-pushpress .item-other p.lead-text{
+    /* font-size: 18px; */
+}
+.wp-pushpress .updated {
+    display: block !important;
+    background: #f1f1f1 !important;
+    border-left: 4px solid #7ad03a !important;
+    padding-left: 10px !important;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{
+    text-align: center; 
+    background: none;
+    border: none;
+    color: #000;
+    font-weight: normal;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active{
+    border: 1px solid #000;
+}
+.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight{
+    background: #000;
+    color: #fff;
+    border-color: #000;
+}
+
+.ui-widget-header{
+    background: #000;
+    color: #fff;
+    font-weight: normal;
+    border: none;
+}
+
+.ui-datepicker{
+    padding: 0;
+    border-radius: 5px !important;
+}
+
+.ui-datepicker table{
+    margin: 0px;
+}
+
+.ui-datepicker-calendar th{
+    text-transform: none;
+    min-width: 35px;
+    color: grey;
+}
+
+.ui-datepicker-calendar{
+    border-bottom: none;
+    background: #fff;
+}
+
+.ui-widget-content{
+    border-color: #000;
+}
+
+.ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl{
+    border-bottom-right-radius :0;
+    border-bottom-left-radius :0;
+}
+
+.ui-datepicker-next ,.ui-datepicker-prev{
+    background: transparent!important;
+    border-color: #000 !important;
+}
+
+.ui-datepicker-prev span {
+    background-image: url(images/arrow-back.png) !important;
+    background-position: 0px 0px !important;
+}
+
+.ui-datepicker-next span {
+    background-image: url(images/arrow-next.png) !important;
+    background-position: 0px 0px !important;
+}
+
+.wp-pushpress .schedule-date{
+    text-align: center;
+}
+
+.wp-pushpress .wp-pushpress-list{
+    border-bottom: 2px solid #000;
+}
+
+.wp-pushpress .wp-pushpress-list:last-child{
+    border: none;
+}
+
+.btnToday[disabled],.btnTomorrow[disabled]{
+    opacity: 0.7;
+    cursor: not-allowed;
+}
+
+.line-date{
+    border-bottom: 2px solid #000;
+}
+
+.little-notepad{
+    background-image: url("images/notepad-icon.png");
+    display: inline-block;
+    height: 16px;
+    width: 16px;
+    margin-left:10px;
+    cursor: pointer;
+}
+
+.public_notes{
+    display: none;
+    background: #eee none repeat scroll 0 0;
+    border-radius: 3px;
+    color: #6e6e6e;
+    padding: 10px;
+}

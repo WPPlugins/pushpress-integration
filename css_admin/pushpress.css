@@ -1,0 +1,251 @@
+.pushpress-wrap .container{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1060px;
+}
+
+.pushpress-wrap .header{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1060px;
+}
+
+.pushpress-wrap .footer{
+    margin: 0;
+    padding: 0;
+    padding-top: 20px;
+    width: 100%;
+    max-width: 1060px;
+    font-style: italic;
+    color: #777;
+    text-align: right;
+}
+
+.pushpress-wrap .dashboard-title{
+    float: left;
+    margin-top: 30px;
+}
+.pushpress-wrap .logo{
+    float: right;
+    margin-top: 30px;
+}
+
+.pushpress-wrap .nav-tab-wrapper{
+    padding-left: 25px;
+}
+.pushpress-wrap .container h2 .nav-tab{
+    padding: 8.5px 20px 7.5px 25px;
+}
+
+.pushpress-wrap .input-group-integration{
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 380px;
+}
+.pushpress-wrap .input-group-integration input{
+    border: 1px solid #616779;
+    border-radius: 3px;
+    padding: 6px 15px 8px 14px;
+    font-size: 18px;
+}
+.pushpress-wrap .input-group-integration button{
+    border: 1px solid #616779;
+    border-radius: 3px;
+    background-color: #00A0DF;
+    padding: 7px 12px 9px 13px;
+    color: #fff;
+    margin-left: 8px;
+    font-size: 16px;
+}
+.pushpress-wrap .input-group-integration label{
+    font-weight: bold;
+    margin-left: 10px;
+}
+.pushpress-wrap .input-group-integration .form-group{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.pushpress-wrap .integration-link{
+    margin: 15px 0 30px 10px;
+}
+.pushpress-wrap .integration-desc{
+    margin-top: 40px;
+    margin-left: 30px;
+    width: 300px;
+}
+
+#website-integrations-container ul{
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    list-style: none;
+}
+#website-integrations-container ul li{
+    max-width: 338px;
+    min-width: 280px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding-top: 25px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+}
+
+.pushpress-wrap .integrations-header{
+    width: 100%;
+}
+
+.pushpress-wrap .integrations-icon{
+    text-align: center;
+    border-bottom: 1px solid #DDDDDD;
+    padding-bottom: 12px;
+}
+.pushpress-wrap .integrations-icon h2{
+    padding: 0;
+}
+
+.pushpress-wrap .integrations-check{
+    padding: 16px 20px 0 20px;
+    border-bottom: 1px solid #DDDDDD;
+
+}
+.pushpress-wrap .integrations-check .disabled{
+    color: #AAAAAA;
+}
+.pushpress-wrap .integrations-check span{
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    color: #2B3038;
+    line-height: 32px;
+}
+.pushpress-wrap .integrations-check .inputCheck{
+    float: right;
+}
+.pushpress-wrap .integrations-p-container{
+    margin-top: 30px;
+    font-size: 14px;
+}
+.pushpress-wrap .integrations-edit{
+    padding-top: 30px;
+    padding-bottom: 26px;
+    border-bottom: 1px solid #DDDDDD;
+}
+.pushpress-wrap .integrations-edit p{
+    margin-top: 0px;
+}
+.pushpress-wrap .integrations-edit a{
+    font-size: 14px;
+    text-decoration: none;
+    line-height: 20px;
+}
+.pushpress-wrap .integrations-edit p i{
+    font-size: 20px;
+    margin-right: 15px;
+    margin-left: 30px;
+}
+
+.pushpress-wrap .integrations-footer{
+    padding: 14.5px 16px 27px 19px;
+    color: #AAAAAA;
+    font-size: 12px;
+}
+
+.pushpress-wrap .website-integrations-footer{
+    margin-top: 5px;
+    padding: 0;
+    width: 100%;
+}
+
+.pushpress-wrap .container #help-container h2{
+    margin-top: 48px;
+    margin-left: 20px;
+}
+.pushpress-wrap .container #help-container p{
+    margin-left: 20px;
+    width: 100%;
+    max-width: 639px;
+}
+.pushpress-wrap .container #help-container p a{
+    text-decoration: none;
+}
+.pushpress-wrap .container #help-container p span{
+    width: 280px;
+    display: inline-block;
+}
+
+.pushpress-wrap .container #help-container p .spinner{
+    display: none;
+    width: 30px;
+    float: none;
+}
+.pushpress-wrap .container #help-container .about-pushpress{
+    max-width: 505px;
+    width: 100%;
+}
+.pushpress-wrap .container #help-container .plugin{
+    margin-bottom: 0;
+    width: 100%;    
+    max-width: 530px;
+}
+.pushpress-wrap .container #help-container .ul-plugin{
+    margin-left: 36px;
+    margin-top: 0px;
+    width: 100%;
+    max-width: 530px;
+}
+.pushpress-wrap .container #help-container .plugin-footer{
+    width: 100%;
+    max-width: 515px;
+}
+.pushpress-wrap .container #help-container .ul-plugin li{
+    list-style-type: disc;
+    margin-bottom: 0px;
+}
+
+.pushpress-wrap .container #help-container #shortcode_output{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    border: 1px solid #969BA3;
+    width: 100%;
+    max-width: 399px;
+}
+.pushpress-wrap .container #help-container p select{
+    width: 100%;
+    max-width: 271px;
+    padding-top: 8px;
+    padding-bottom: 9px;
+    padding-left: 9px;
+    height: auto;
+    font-weight: bold;
+}
+
+.pp-icons-pushpress-logo2{
+    font-size: 7em;
+}
+
+.pushpress-wrap .tab-pane{
+    display: none;
+}
+.pushpress-wrap .tab-active{
+    display: block;
+}
+
+@media screen and (max-width:460px){
+    .pushpress-wrap .dashboard-title h1{
+        font-size: 25px;
+    }
+}
+@media screen and (max-width: 600px){
+    .pushpress-wrap .nav-tab-wrapper{
+        padding-left: 6px;
+    }
+    .pushpress-wrap .container h2 .nav-tab {
+        padding: 6px;
+        margin-right: 0px;
+        font-size: 13px;
+    }
+}
